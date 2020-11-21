@@ -1,0 +1,6 @@
+#security:
+ # oauth2:
+  #  client:
+   #   client-id: myOauthClientId
+    #  client-secret: myOauthClientSecret
+    
